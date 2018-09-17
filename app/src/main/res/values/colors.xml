@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#4A312A</color>
+    <!-- Primary dark color of the app (shown in the status bar)-->
+    <color name="primary_dark_color">#2F1D1A</color>
+    <!--Background of the app-->
+    <color name="tan_background">#FFF7DA</color>
+    <!--Background color for numbers category-->
+    <color name="category_numbers">#FDAE09</color>
+    <!--Background color for family category-->
+    <color name="category_family">#379237</color>
+    <!--Background color for colors category-->
+    <color name="category_colors">#BB00A0</color>
+    <!--Background color for phrases category-->
+    <color name="category_phrases">#16AFCA</color>
+</resources>
